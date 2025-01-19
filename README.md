@@ -1,6 +1,6 @@
 # skywind modlist by Jaume Alcazo (WIP)
 
-My modlist compilation for Skywind, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
+My modlist compilation for Skywind, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Contact me at jaume.alcazo@gmail.com
 
 <img src="cover.jpg">
 
@@ -254,63 +254,23 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542) | [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513) |
-| [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742) | [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628) |
-
-<details><summary>Screenshots. </summary> <img src="preview/gallows/4.jpg"/> </details>
 
 # Towers and Ruins
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Ryn's Broken Tower Redoubt.](https://www.nexusmods.com/skyrimspecialedition/mods/102141) (Flagged as ESL). | [Ryn's Broken Tower Redoubt - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/102797) |
-| [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382) |  ``` TODO. TO BE DONE 🚧 ``` |
-| [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101) | [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326) |
 
 # Shrines and statues
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Ryn's Azura's Shrine (Flagged as ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
-
-<details><summary>Screenshots. </summary> <img src="preview/ryn_azuras/1.jpg"/> </details>
 
 # Collectibles
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Additional Hearthfire Dolls.](https://www.nexusmods.com/skyrimspecialedition/mods/46930) (Adds 41 collectible special variants of the Hearthfire doll). | [Additional Hearthfire Dolls SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/47410) |
-| [Skyrims Unique Treasures.](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | [Skyrim Unique Treasures SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/48368) |
-| [New Treasure Hunt SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/19469) ((Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim SE.) | [New Treasure Hunt SSE. - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85024) |
-| [Each Stone of Barenziah Gives You a Bonus (ESLified).](https://www.nexusmods.com/skyrimspecialedition/mods/37122) | Not needed. |
-
-<details><summary>Screenshots. </summary> <img src="collectibles/dolls1.jpg"/> <img src="collectibles/dolls2.jpg"/> <img src="collectibles/dolls3.jpg"/> <img src="collectibles/dolls4.jpg"/> <img src="collectibles/dolls5.jpg"/> <img src="collectibles/dolls6.jpg"/> <img src="collectibles/dolls7.jpg"/> </details>
 
 # Quests
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Caught Red Handed - Quest Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.  | [Caught Red Handed - Quest Expansion ES.](https://www.nexusmods.com/skyrimspecialedition/mods/76989) | 
-[Bards College Excavation.](https://www.nexusmods.com/skyrimspecialedition/mods/36950) | Adds a bard excavation to Dead Men's Respite after completing Tending the Flames, with 2 unique bard NPCs, fully voiced dialogue and a repeatable quest. | [Bards College Excavation - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37377) |
-| [Civil War Lines Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | ESL flagged. Adds new lines to Imperials and Stormcloaks, giving them more personality and making them react to current events, their environment, the player, their enemies, their friends and more. | [Civil War Lines Expansion - ESPAÑOL SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/80389) |
-| [Dwemer Colosseum SE](https://www.nexusmods.com/skyrimspecialedition/mods/4435) | A large quest mod that adds a new arena element to Skyrim while maintaining a lore-friendly feel. | [Dwemer Colosseum SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/52158) |
-| [Helgen Reborn.](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | Cool rebuiling of Helgen. | traduir jo amb veus elevenlabs ai |
-| [Boethiah for Good Guys.](https://www.nexusmods.com/skyrimspecialedition/mods/329) | Complete Boethiah's quest without betraying a friend. | todo |
-| [Dark Brotherhood for Good Guys.](https://www.nexusmods.com/skyrimspecialedition/mods/519) | Ever wanted to be a "good guy" and still go through the Dark Brotherhood quest line? | [Dark Brotherhood For Good Guys - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/44817) |
-| [The Paarthurnax Dilemma.](https://www.nexusmods.com/skyrimspecialedition/mods/365) | Small expansion on the quest the Blades give you concerning Paarthurnax. | [The Paarthurnax Dilemma (SSE) en Castellano.](https://www.nexusmods.com/skyrimspecialedition/mods/39876) Con este mod de inmersión podremos juzgar y decidir que hacer con la vida de Paarthurnax a través de una misión en la que el Sangre de Dragón deberá asumir las consecuencias, sean buenas o malas. |
-| [Even Better Quest Objectives SE - EBQO SE.](https://www.nexusmods.com/skyrimspecialedition/mods/159) | Enhances the quest descriptions in the vanilla game. A now an officially endorsed update to whickus's Better Quest Objectives. | 
- 
-# Adult (NSFW)
-
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550) | todo | [PsBoss's Statuettes Ver. Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95066) |
-| [New Mara Statue SE.](https://www.nexusmods.com/skyrimspecialedition/mods/53520) | todo | Not needed. |
-| [New Gray Fox Bust.](https://www.nexusmods.com/skyrimspecialedition/mods/104252) | todo | todo |
-| [New Dwarven Sphere Centurion Female.](https://www.nexusmods.com/skyrimspecialedition/mods/121381) | todo | ? |
-| [New Dwarven Centurion Female SFW.](https://www.nexusmods.com/skyrimspecialedition/mods/86707) | todo | todo |
-
-<details><summary>Screenshots.</summary> <img src="preview/statuettes/5.jpg"/>  <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE2.jpg> <img src="adults/new_mara_statue_SE3.jpg> <img src="adults/new_mara_statue_SE4.jpg> <img src="adults/new_mara_statue_SE5.jpg> <img src="adults/new_mara_statue_SE6.jpg> <img src="adults/new_mara_statue_SE7.jpg> <img src="adults/new_mara_statue_SE8.jpg> <img src="adults/new_gray_fox_bust1.jpg"> <img src="adults/new_gray_fox_bust2.jpg"> <img src="adults/new_gray_fox_bust3.jpg"> <img src="adults/new_gray_fox_bust4.jpg"> <img src="adults/new_gray_fox_bust5.jpg"> <img src="adults/new_gray_fox_bust6.jpg"> <img src="adults/new_gray_fox_bust7.jpg"> <img src="adults/new_gray_fox_bust8.jpg"> <img src="adults/new_gray_fox_bust9.jpg"> </details>
-
-a
-
