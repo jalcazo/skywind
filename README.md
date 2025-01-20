@@ -1,8 +1,8 @@
 # skywind modlist by Jaume Alcazo (WIP)
 
-My modlist compilation for Skywind, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Contact me at jaume.alcazo@gmail.com
+My modlist compilation for Skywind, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist and maybe a [Wabbajack](https://www.wabbajack.org/) modlist. Contact me at jaume.alcazo@gmail.com
 
-<img src="cover.jpg">
+<img src="img/banner2.jpg">
 
 # Essential (many mods need these)
 
@@ -12,7 +12,7 @@ My modlist compilation for Skywind, thanks to all the authors! I plan on doing a
 | 2 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE (just one) when downloading. | Not needed. |
 | 3 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | SKSE plugin that is used add spells/perks/items/shouts, etc. to the NPCs. | Not needed. |
 | 4 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's kinda un-inmersive if you are doing a SFW playthrough. | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
-| 5 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Obviously we want our Steam achievements back!<br> <img src="achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
+| 5 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Reenables Steam achievements back<br> <img src="img/achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
 | 6 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. | Not needed. |
 | 7 | [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Allow mods filtering the inventory by keyword. | Not needed. |
 | 8 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to different objects.  | Not needed. |
@@ -21,7 +21,7 @@ My modlist compilation for Skywind, thanks to all the authors! I plan on doing a
 | 11 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
 | 12 | [Racemenu.](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=description) | todo | [RaceMenu - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64182) |
 | 13 | [Headpart Whitelist.](https://www.nexusmods.com/skyrimspecialedition/mods/106126) | SKSE plugin that removes unnecessary NPC only/broken headparts from Racemenu. | Not needed. | 
-| Total in this category: | 16 mods | | |
+| Total in this category: | 13 mods | | |
 
 # Fixes/helpers
 
@@ -43,7 +43,7 @@ My modlist compilation for Skywind, thanks to all the authors! I plan on doing a
 | 14 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
 | Total in this category: | 14 mods | | |
 
-<img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
+<img src="img/fixes/recursion_monitor1.jpg"> <img src="img/fixes/recursion_monitor2.jpg">
 
 # Armor, armors
 
