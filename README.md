@@ -1,6 +1,6 @@
 # skywind modlist by Jaume Alcazo (WIP)
 
-My modlist compilation for Skywind, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Contact me at jaume.alcazo@gmail.com
+My modlist compilation for Skywind, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist and maybe a [[https://www.wabbajack.org/|Wabbajack]] modlist. Contact me at jaume.alcazo@gmail.com
 
 <img src="img/banner2.jpg">
 
