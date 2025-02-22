@@ -56,12 +56,9 @@ My modlist compilation for Skywind, thanks to all the authors! I plan on doing a
 | Number | Mod |  Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [Spriggans SE](https://www.nexusmods.com/skyrimspecialedition/mods/90547?tab=files&file_id=507165) | See image below. | Not needed. | :tv: todo |
-| 2 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | See screenshots below. | Not needed. | :tv: todo |
-| 3 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | See screenshots below. | Not needed. | :tv: todo |
-| 4 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. | :tv: todo |
-| 6 | [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.] | :tv: todo |(https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. | :tv: todo |
-| 8 | [Kanjs - Bird Nests and Eggs - up to 4k.](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Retexture and remesh of all bird nests and eggs. | Not needed. | :tv: todo |
-| Total in this category: | 9 mods | | |
+| 2 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. | :tv: todo |
+| 3 | [Kanjs - Bird Nests and Eggs - up to 4k.](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Retexture and remesh of all bird nests and eggs. | Not needed. | :tv: todo |
+| Total in this category: | 3 mods | | |
 
 # GUI / Interface / User Interface
 
@@ -83,9 +80,9 @@ Avoid:
   
 # Magic / Spells
 
-| Mod |  Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Inferno - Fire Effects Redux.](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Spiritual successor to the original Ultimate HD Fire Effects﻿ mod with improved meshes and textures! | Not needed. |
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Inferno - Fire Effects Redux.](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Spiritual successor to the original Ultimate HD Fire Effects﻿ mod with improved meshes and textures! | Not needed. | :tv: todo |
 
 # Combat
 
