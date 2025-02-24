@@ -92,8 +92,11 @@ Avoid:
 | 2 | [Precision - Accurate Melee Collisions.](https://www.nexusmods.com/skyrimspecialedition/mods/72347) | Physically accurate, true Havok collisions for melee. Procedural, physics-based hit reactions. Weapon trails. Hitstop and camera shake. Recoils when hitting certain materials. Supports both first person and third person, as well as other NPCs and creatures. | [Traduccion al Spanish de Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/101804) | :tv: todo |
 | 3 | [Locational Damage(SKSE Plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/46932) | This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file. | Not needed. | :tv: todo |
 | 4 | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. | :tv: todo |
-| 5 | [Dynamic Impact - Slash Effects X.](https://www.nexusmods.com/skyrimspecialedition/mods/86071) | Not needed. | :tv: todo |
-| Total in this category: | 5 mods | | |
+| 5 | [Dynamic Impact - Slash Effects X](https://www.nexusmods.com/skyrimspecialedition/mods/86071) | Not needed. | :tv: todo |
+| 6 | [Immersive Weapon Switch - SKSE plugin](https://www.nexusmods.com/skyrimspecialedition/mods/139762) | Not needed. | :tv: todo |
+| 7 | [Weapon switch animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/100366) | Not needed. | :tv: todo |
+| 8 | [Weapon Switch Animation Fix - Behavior Patch Version](https://www.nexusmods.com/skyrimspecialedition/mods/125415) | Not needed. | :tv: todo |
+| Total in this category: | 8 mods | | |
 
 # Immersion
 
