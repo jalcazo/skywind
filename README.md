@@ -210,11 +210,9 @@ Avoid:
 |----------|----------|----------|----------|----------|
 | 1 | [Sound Record Distributor.](https://www.nexusmods.com/skyrimspecialedition/mods/77815) | SKSE framework which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. | Not needed. | todo |
 | 2 | [Tyler Cunningham Combat Music Pack.](https://www.nexusmods.com/skyrimspecialedition/mods/105581) | Combat Music pack replacer. | Not needed. | [Video review.](https://www.youtube.com/watch?v=LUNm-YENAe0) |
-| 3 | [Ambient Warfare.](https://www.nexusmods.com/skyrimspecialedition/mods/113118) | Utilizes Sound Record Distributor to add ambient sounds of war to exterior regions. | Not needed. | :tv: [Ambient Warfare Subtle.](https://www.youtube.com/watch?v=S6iLoiYujrw) |
-| 4 | [Murder of Songbirds.](https://www.nexusmods.com/skyrimspecialedition/mods/111766) | Utilizes Sound Record Distributor to play several varieties of bird (and bat) sounds throughout all regions of Skyrim. Including (but not limited to) hawks, crows, owls, seagulls, & woodpeckers. | Not needed. | :tv: [Murder of Songbirds 1](https://www.youtube.com/watch?v=cwUVfGG5dOM) |
-| 5 | [Dungeon Sounds Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/66600) | Complete revamp of the original mod with highly modular fomod! | Not needed. | :tv: [Dungeon Sounds Overhaul 2.0 - Caves](https://www.youtube.com/watch?v=KwFbaf2QaGk) |
-| 6 | [Immersive Music.](https://www.nexusmods.com/skyrimspecialedition/mods/16402) | Immersive Music adds 16 hours of carefully curated music that perfectly fits Skyrim. | Not needed. | :tv: [3 Hours of Ambient Fantasy - Immersive Music](https://www.youtube.com/watch?v=2PGcoOORV98) |
-| Total in this category: | 6 mods | | | |
+| 3 | [Dungeon Sounds Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/66600) | Complete revamp of the original mod with highly modular fomod! | Not needed. | :tv: [Dungeon Sounds Overhaul 2.0 - Caves](https://www.youtube.com/watch?v=KwFbaf2QaGk) |
+| 4 | [Immersive Music.](https://www.nexusmods.com/skyrimspecialedition/mods/16402) | Immersive Music adds 16 hours of carefully curated music that perfectly fits Skyrim. | Not needed. | :tv: [3 Hours of Ambient Fantasy - Immersive Music](https://www.youtube.com/watch?v=2PGcoOORV98) |
+| Total in this category: | 4 mods | | | |
 
 Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](https://www.youtube.com/watch?v=XXqmFLV-aGo)
 
