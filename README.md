@@ -100,15 +100,22 @@ Avoid:
 
 # Immersion
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
-| 1 | [Scared of Shootings - NPCs react to aiming bows](https://www.nexusmods.com/skyrimspecialedition/mods/105622) | NPCs will react to aiming bows and crossbows by complaining, fleeing, attacking, and reporting you to the guards. <br> :tv: [Reviewed here by Master Cheesey.](https://www.youtube.com/watch?v=J0388aeYHng) | **Uses vanilla voices**. Not needed. |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Destructible Skyrim - Containers](https://www.nexusmods.com/skyrimspecialedition/mods/143935) | Break containers open by smashing them to bits and watch as the pieces go flying and the loot comes spilling out. | Not needed | :tv: todo |
+| 2 | [Destructible Skyrim - Breakable Objects SE (Beta)](https://www.nexusmods.com/skyrimspecialedition/mods/28291) | Smash objects to pieces and watch the physics enabled debris fly everywhere. Be careful in taverns or shops though as the guards won't take kindly to such reckless destruction. This is a small sample of what is to come for testing purposes. | [Destructible Skyrim - Breakable Objects SE - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/69703) | :tv: todo |
+| 3 | [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270) | todo | todo | :tv: todo |
+| 4 | [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | todo | todo | :tv: todo |
+| 5 | [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | todo | todo | :tv: todo |
+| 6 | [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) | :tv: todo |
+| 7 | [Fast Travel for Survival Mode.](https://www.nexusmods.com/skyrimspecialedition/mods/21067) | todo | todo | :tv: todo |
+| 8 | [Scared of Shootings - NPCs react to aiming bows](https://www.nexusmods.com/skyrimspecialedition/mods/105622) | NPCs will react to aiming bows and crossbows by complaining, fleeing, attacking, and reporting you to the guards. <br> :tv: [Reviewed here by Master Cheesey.](https://www.youtube.com/watch?v=J0388aeYHng) | **Uses vanilla voices**. Not needed. |
 
 # Cities
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| Total in this category: | 4 mods | | |
+| Total in this category: | 0 mods | | |
 
 # Alchemy / Potions / Ingredients / Food
 
@@ -186,17 +193,6 @@ Avoid:
 |----------|----------|----------|----------|----------|
 | 1 | [Flat World Map Framework (FWMF).](https://www.nexusmods.com/skyrimspecialedition/mods/29932) (This mod changes default 3D Skyrim map to a flat one). | Not needed. Framework for all below. | :tv: todo |
 | Total in this category: | 1 mods | | |
-
-# Immersion
-
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270) | a |
-| [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | b |
-| [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | c |
-| [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
-| [Fast Travel for Survival Mode.](https://www.nexusmods.com/skyrimspecialedition/mods/21067) | Not needed. |
-
 # Base Object Swapper (BOS)
 
 <img src="base_object_swapper/logo.jpg">
